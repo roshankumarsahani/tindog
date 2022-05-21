@@ -1,2 +1,0 @@
-# tindog
-TinDog Website
